@@ -9,6 +9,7 @@ My Github page: https://github.com/Sdev-main
 ## Favorite Labs from CPSC-120L
 
 * Lab 6
+
   Before Lab 6, I never fully understood blackjack or how you played it. After going through Lab 6, I came to realize how much
 fun blackjack can be and the number of specifications needed to make it in a digital form. When I read the README.md file for
 The first time, I thought this lab would be easy and simple to make. But after spending many hours and time to make
@@ -17,6 +18,7 @@ After this lab, I began to take much more thorough notes as well as many more ex
 soon became a favorite of mine purely out of the work ethic that I was able to teach myself during my time working on it.
  
 * Lab 8
+  
   While not being my favorite lab, Lab 8 was the most memorable for me. Both before and after the lab, I dedicated a lot of my
 notebook to taking notes on how the program behaved, as well as notes on important topics like the function std::stod(). This lab
 was a further challenge for me, but it helped me learn the most and helped me get a much greater understanding of how every function
