@@ -1,6 +1,6 @@
 # Sean Arata's Portfolio
 
-Computer Engineering major at CSUF, expected to graduate in 2028.
+Computer Engineering major and student at CSUF, expected to graduate in 2028.
 
 ## Computer Science Projects
 
